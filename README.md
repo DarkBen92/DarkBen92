@@ -1,4 +1,4 @@
-# Hi I'm Daniil
+# Daniil
 ## QA engineer from Kazan
 ### Contact with me:
 - 💬 - Telegram @daniilopper
