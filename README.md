@@ -1,5 +1,4 @@
-# Daniil
-## QA engineer from Kazan
+# Daniil`
 ### Contact with me:
-- 💬 - Telegram @daniilopper
+- 💬 - Telegram @exrouden
 - 📫 - reedan12372@gmail.com
